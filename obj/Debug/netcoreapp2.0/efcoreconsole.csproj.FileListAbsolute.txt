@@ -1,0 +1,10 @@
+F:\pkdev\practice\dotnet\efcoreconsole\bin\Debug\netcoreapp2.0\efcoreconsole.deps.json
+F:\pkdev\practice\dotnet\efcoreconsole\bin\Debug\netcoreapp2.0\efcoreconsole.runtimeconfig.json
+F:\pkdev\practice\dotnet\efcoreconsole\bin\Debug\netcoreapp2.0\efcoreconsole.runtimeconfig.dev.json
+F:\pkdev\practice\dotnet\efcoreconsole\bin\Debug\netcoreapp2.0\efcoreconsole.dll
+F:\pkdev\practice\dotnet\efcoreconsole\bin\Debug\netcoreapp2.0\efcoreconsole.pdb
+F:\pkdev\practice\dotnet\efcoreconsole\obj\Debug\netcoreapp2.0\efcoreconsole.csproj.CoreCompileInputs.cache
+F:\pkdev\practice\dotnet\efcoreconsole\obj\Debug\netcoreapp2.0\efcoreconsole.AssemblyInfoInputs.cache
+F:\pkdev\practice\dotnet\efcoreconsole\obj\Debug\netcoreapp2.0\efcoreconsole.AssemblyInfo.cs
+F:\pkdev\practice\dotnet\efcoreconsole\obj\Debug\netcoreapp2.0\efcoreconsole.dll
+F:\pkdev\practice\dotnet\efcoreconsole\obj\Debug\netcoreapp2.0\efcoreconsole.pdb
